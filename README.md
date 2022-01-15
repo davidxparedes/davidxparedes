@@ -1,12 +1,20 @@
-## Hello, my name is David 👋
+# Hello, my name is David 👋
 
 ### I'm a husband, father and front-end developer  
 
-Skills:  HTML / CSS / Sass / JavaScript / jQuery / React / Twig  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](davidparedes.ca)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/davidxparedes)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/davidxparedes/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/davidxparedes/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/davidxparedes)
+## Skills and Experience
+- HTML
+- CSS
+- Sass
+- JavaScript
+- jQuery
+- React
+- Twig  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidxparedes)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect With Me
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](davidparedes.ca)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='25'>](https://codepen.io/davidxparedes)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/davidxparedes/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='25'>](https://www.instagram.com/davidxparedes/)&nbsp;&nbsp;&nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='25'>](https://twitter.com/davidxparedes)
 
 
 
