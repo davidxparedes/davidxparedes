@@ -1,6 +1,6 @@
 # Hello, my name is David 👋
 
-#### I'm a husband, father and front-end developer
+I'm a husband, father and front-end developer
 
 ## Skills and Experience
 
@@ -11,9 +11,12 @@
 - JavaScript
 - jQuery
 - React
-- Twig  
+- Twig
 </td></pre><td>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidxparedes)](https://github.com/anuraghazra/github-readme-stats)</td><pre></tr></table> </pre>
+
+## I’m Currently Learning
+React JS
 
 ## Connect With Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='25'>](http://davidparedes.ca 'davidparedes.ca')&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,7 +31,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
